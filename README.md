@@ -29,4 +29,4 @@
 
 ## License
 
-    This section will be completed in the future...
+    This repository is licensed under MIT License fount in the LICENSE file in the root directory of this repository.
